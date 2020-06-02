@@ -1,0 +1,4 @@
+11L
+Num: 1
+Cost: 100
+0 seconds
